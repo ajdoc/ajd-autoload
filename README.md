@@ -5,3 +5,7 @@ Simple php autoloading library that could be use with or without composer autolo
 ## Description
 
 Php autoloading library.
+
+### Installing
+
+* composer require ajd/ajd-autoload
